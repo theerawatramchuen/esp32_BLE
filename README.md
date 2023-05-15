@@ -1,4 +1,4 @@
-# esp32_BLE
+# ESP32 BLE (Blue Tooth Low Energy)
 ### esp32 BLE Device and Scanner
 GPT-4 prompt <br/>
 BLE Scanner : Give ESP32 code of BLE scanner to detect only Device name "ESP32_BLE" <br/>
