@@ -1,3 +1,4 @@
+// GPT-4 prompt : Give code of program sets up the ESP32 as a Bluetooth Low Energy device with a custom service and characteristic. It then starts advertising, with the signal strength (RSSI) included as part of the manufacturer data in the advertising payload.
 #include <BLEDevice.h>
 #include <BLEUtils.h>
 #include <BLEServer.h>
